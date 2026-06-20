@@ -1,0 +1,28 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "fc8_bolt_n": "4",
+            "fc8_flange_t": "5",
+            "fc8_od": "32",
+            "guide_rod_d": "8",
+            "guide_rod_n": "3",
+            "guide_rod_start_angle": "90",
+            "kfl08_bolt_hole_d": "5",
+            "kfl08_bolt_pitch_d": "37",
+            "kfl08_od": "48",
+            "leadscrew_d": "8",
+            "m5_insert_l": "5",
+            "motor_bolt_start_angle": "45",
+            "nema17_body_l": "59.5",
+            "nema17_bolt_hole_d": "3.2000000000000002",
+            "nema17_bolt_pitch_d": "31",
+            "nema17_boss_d": "22",
+            "nema17_boss_h": "2",
+            "nema17_shaft_d": "5",
+            "show_hardware": "false",
+            "standoff_hole_d": "3",
+            "travel_h": "300"
+        }
+    }
+}
